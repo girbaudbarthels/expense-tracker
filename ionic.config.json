@@ -1,0 +1,8 @@
+{
+  "name": "ExpenseTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "bf304065"
+}

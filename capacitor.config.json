@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ExpenseTracker",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
