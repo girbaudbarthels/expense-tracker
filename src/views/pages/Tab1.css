@@ -1,0 +1,12 @@
+.widthMax{
+    width: 1200px;
+    align-content: center;
+    margin: auto;
+}
+
+.headerTextSum{
+    font-size: 90px !important;
+    color: red;
+    font-weight:900 !important;
+    text-align: center;
+}

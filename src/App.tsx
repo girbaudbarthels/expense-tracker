@@ -46,6 +46,7 @@ const App: React.FC = () => {
     console.log('onload');
     getInitialData()
   })
+  
   return (
     <IonApp>
       <IonReactRouter>
